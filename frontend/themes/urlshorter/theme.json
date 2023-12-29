@@ -3,7 +3,7 @@
   "assets" : {
     "@fontsource/poppins" : {
       "*.css" : "@fontsource/poppins",
-      "files/*" : "@fontsource/poppins/files"
+      "files/*" : "@fontsource/arial/poppins"
     }
   }
 }
